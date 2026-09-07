@@ -7,7 +7,7 @@ Summary:        OpenTelemetry Semantic Conventions Extension for Large Language 
 # Check if the automatically generated License and its spelling is correct for Fedora
 # https://docs.fedoraproject.org/en-US/packaging-guidelines/LicensingGuidelines/
 License:        Apache-2.0
-URL:            ...
+URL:            https://github.com/traceloop/openllmetry
 Source:         %{pypi_source opentelemetry_semantic_conventions_ai}
 
 BuildArch:      noarch
